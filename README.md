@@ -4,6 +4,8 @@ Cybersecurity Engineer in Training | Blue Team • Network Security • Automati
 I focus on building **practical cybersecurity tools** and documenting **real security analysis**, not just listing technologies.<br>
 My interest lies in understanding *how attacks work*, *how they leave traces*, and *how those traces can be detected at scale*.<br><br>
 
+Check my Portfolio: ![Portfolio](https://portfolio-aman-verma.netlify.app/)
+
 ---
 
 ## 🌐 Socials:
