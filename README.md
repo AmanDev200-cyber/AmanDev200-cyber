@@ -1,20 +1,25 @@
-# 💫 About Me:
-Hi, I’m Aman Verma<br><br>
-Cybersecurity Engineer in Training | Blue Team • Network Security • Automation<br><br>
-I focus on building **practical cybersecurity tools** and documenting **real security analysis**, not just listing technologies.<br>
-My interest lies in understanding *how attacks work*, *how they leave traces*, and *how those traces can be detected at scale*.<br><br>
+# 💫 About Me
 
-Check my Portfolio: ![Portfolio](https://portfolio-aman-verma.netlify.app/)
+Hi, I’m **Aman Verma**  
+
+**Cybersecurity Student | Blue Team • Network Security • Security Automation**
+
+I focus on building **practical cybersecurity tools** and documenting **real security analysis**, not just listing technologies.  
+My interest lies in understanding **how attacks work**, **how they leave traces**, and **how those traces can be detected at scale**.
+
+🔗 **Portfolio:** https://portfolio-aman-verma.netlify.app
 
 ---
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ama_nverma2005/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-verma-268087297/)
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-verma-268087297/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amanwork2204@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white)](https://www.instagram.com/ama_nverma2005/)
+
 ---
 
-# 💻 Tech Stack:
+## 💻 Tech Stack
+
 ### 🛡️ Core
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -32,17 +37,25 @@ Check my Portfolio: ![Portfolio](https://portfolio-aman-verma.netlify.app/)
 
 ---
 
-# 🧪 Areas of Work:
+## 🧪 Areas of Work
 - Network traffic analysis & anomaly detection  
 - Log-based intrusion detection  
 - Malware behavior analysis (isolated Linux labs)  
-- Security automation using Python
-- Carbon Auditor
+- Security automation using Python  
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AmanDev200-cyber&theme=dark&hide_border=true&show_icons=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanDev200-cyber&theme=dark&hide_border=true&layout=compact)
+## 🚀 Selected Projects
+- **Safe Docs** — AI-powered legal document analysis & forgery detection  
+- **Carbon Auditor** — Forensic carbon impact analysis & ESG simulation platform  
+- **Secure File Sharing System** — Encrypted, access-controlled cloud storage  
 
-<!-- Curated for clarity, focus, and real cybersecurity work -->
+(Details available on the portfolio.)
+
+---
+
+## 📊 GitHub Activity
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmanDev200-cyber&theme=dark&hide_border=true&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanDev200-cyber&theme=dark&hide_border=true&layout=compact)
+
+<!-- Curated for clarity, technical depth, and real security-focused work -->
