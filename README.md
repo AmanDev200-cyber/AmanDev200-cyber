@@ -35,7 +35,7 @@ My interest lies in understanding *how attacks work*, *how they leave traces*, a
 - Log-based intrusion detection  
 - Malware behavior analysis (isolated Linux labs)  
 - Security automation using Python
--<a herf="https://carbonauditor.netlify.app/">Carbon Auditor</a>
+- Carbon Auditor
 
 ---
 
