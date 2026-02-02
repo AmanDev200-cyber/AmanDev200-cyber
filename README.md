@@ -40,17 +40,7 @@ My interest lies in understanding *how attacks work*, *how they leave traces*, a
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AmanDev200-cyber&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AmanDev200-cyber&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanDev200-cyber&theme=dark&hide_border=false&layout=compact)
-
----
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AmanDev200-cyber&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=AmanDev200-cyber&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://github-readme-stats.vercel.app/api?username=AmanDev200-cyber&theme=dark&hide_border=true&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanDev200-cyber&theme=dark&hide_border=true&layout=compact)
 
 <!-- Curated for clarity, focus, and real cybersecurity work -->
