@@ -10,7 +10,6 @@ My interest lies in understanding *how attacks work*, *how they leave traces*, a
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ama_nverma2005/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-verma-268087297/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amanwork2204@gmail.com)
-
 ---
 
 # 💻 Tech Stack:
@@ -36,7 +35,7 @@ My interest lies in understanding *how attacks work*, *how they leave traces*, a
 - Log-based intrusion detection  
 - Malware behavior analysis (isolated Linux labs)  
 - Security automation using Python
-- ![Carbon Auditor](https://carbonauditor.netlify.app/)
+- [![Carbon Auditor](https://carbonauditor.netlify.app/)
 
 ---
 
